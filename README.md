@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá! Seja Bem-Vindo(a) ao meu perfil! 😊
 
-<!--
-**gisellebonetti/gisellebonetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Github](https://github.com/gisellebonetti) 
+- [Linkedin](https://www.linkedin.com/in/giselle-bonetti/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Analista de Customer Experience na TOTVS
+
+- Conhecimento em Banco de Dados, MySQL, HTML e CSS, JAVA, GIT e GITHUB.
+- Métodos Agéis: Kanban;
+- Ferramentas utilizadas: Zendesk, GoodData, Protheus, Trello, Jira.
+- ERP TOTVS - Protheus.
+- Pacote Office e GSuite.
